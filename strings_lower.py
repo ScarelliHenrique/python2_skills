@@ -1,0 +1,2 @@
+#The lower() method makes a copy of a source string, replaces all upper-case letters with their lower-case counterparts, and returns the string as the result. Again, the source string remains untouched.
+print("SiGmA=60".lower())
