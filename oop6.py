@@ -1,0 +1,1 @@
+#SOLID (S) - Responsabilidade Única
