@@ -1,4 +1,3 @@
-#SOLID (S) - Responsabilidade Única..A partir de uma retomada ao livro Clean Architecture (Bob Martin), retomamos o conceito e a definição do dado princípio e, por fim, o aplicamos em um exemplo definido
 class SistemaCadastral:
     def cadastrar(self, nome: str, idade: int) -> None:
         if self.__verificar_dados(nome, idade):
